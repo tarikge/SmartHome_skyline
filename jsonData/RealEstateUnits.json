@@ -1,0 +1,14 @@
+[
+  {
+    "ID": 0,
+    "Name": "Kuca 1",
+    "Location": "Maglajska 1, Sarajevo, BiH",
+    "Status": true
+  },
+  {
+    "ID": 2,
+    "Name": "abc",
+    "Location": "dfg",
+    "Status": true
+  }
+]
