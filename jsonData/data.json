@@ -1,0 +1,39 @@
+[
+  {
+    "Username": "skyline",
+    "Password": "skyline",
+    "RealEstateUnits": [
+      {
+        "ID": 1,
+        "Name": "Kuca 1",
+        "Location": "Maglajska 1 Sarajevo",
+        "Status": true,
+        "Rooms": [
+          {
+            "ID": 1,
+            "Name": "Office",
+            "Devices": [
+              {
+                "ID": 1,
+                "Name": "Svjetlo",
+                "Make": "Philips",
+                "Model": "Ph01",
+                "Status": true
+              },
+              {
+                "Temperature": 25.0,
+                "FanSpeed": 1,
+                "Mode": 1,
+                "ID": 2,
+                "Name": "Klima",
+                "Make": "Samsung",
+                "Model": "s1",
+                "Status": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

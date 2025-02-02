@@ -8,8 +8,11 @@ class Program
     {
         Console.WriteLine("Hello, Skyline!");
         
-        //prikaz pocetnog izbornika za objekte, reu(realestateunit)
-        RealEstateUnitService REUservice= new RealEstateUnitService();
-        REUservice.displayReuMenu();
+        UIService service= new UIService();
+        while (true)
+        {
+            service.displayMenu();
+        }
+        
     }
 }
